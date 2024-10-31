@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-09 15:36-0400\n"
+"PO-Revision-Date: 2020-05-09 15:37-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: views/favorite-form.php:33
+#, php-format
+msgid "Link %s added"
+msgstr "Enlace %s agregado"
+
+#: views/favorite-form.php:45
+#, php-format
+msgid "Category %s added"
+msgstr "Categoría %s agregada"
+
+#: views/favorite-form.php:57
+#, php-format
+msgid "Link %s removed"
+msgstr "Enlace %s eliminado"
+
+#: views/favorite-form.php:69
+#, php-format
+msgid "Category %s removed"
+msgstr "Categoría %s eliminada"
+
+#: views/favorite-form.php:76
+msgid "Error processing form, please try again"
+msgstr "Error al procesar formulario, por favor intente de nuevo"
+
+#: views/favorite-form.php:88
+msgid "Add Link"
+msgstr "Agregar Enlace"
+
+#: views/favorite-form.php:91
+msgid "Add Category"
+msgstr "Agregar Categoría"
+
+#: views/favorite-form.php:101
+msgid "Link Name"
+msgstr "Nombre del Enlace"
+
+#: views/favorite-form.php:104
+msgid "Link Url"
+msgstr "Dirección del Enlace"
+
+#: views/favorite-form.php:107
+msgid "Category"
+msgstr "Categoría"
+
+#: views/favorite-form.php:116 views/favorite-form.php:131
+msgid "Save"
+msgstr "Guardar"
+
+#: views/favorite-form.php:119
+msgid "You must create some category before add a link"
+msgstr "Debe crear alguna categoría antes de agregar un enlace."
+
+#: views/favorite-form.php:127
+msgid "Category Name"
+msgstr "Nombre de la Categoría"
